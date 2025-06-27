@@ -1,2 +1,1 @@
-# Churn-Analysyis-data-science-and-analytics-
-Churn analysis project: Analyzed telecom data in Python/Tableau to identify churn factors &amp; derive insights.
+Neurodiverse-led churn analytics project: Predicting user disengagement via Python. Adaptable for Microsoft 365 insights.
